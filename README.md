@@ -1,5 +1,7 @@
 
-# VerusPay Install Scripts and Configuration Instructions
+# NOTICE: This project is discontinued, as it is now merged within my VerusChainTools project found at https://github.com/joliverwestbrook/VerusChainTools
+
+# OLD Readme Contents:
 
 Version: 0.3.6
 
